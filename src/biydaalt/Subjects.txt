@@ -1,0 +1,8 @@
+S1/Subject 1/3.0
+S2/Subject 2/2.0
+S3/Subject 3/4.0
+S4/Subject 4/3.0
+S5/Subject 5/2.0
+S6/Subject 6/3.0
+S7/Subject 7/4.0
+S8/Subject 8/1.0

@@ -1,0 +1,3 @@
+30/Major 1
+50/Major 2
+75/Major 3
